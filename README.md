@@ -11,4 +11,4 @@ sudo chmod 777 ./flash-boot.sh
 <br>
 Run the program
 <br>
-./flash-boot.sh 
+sudo ./flash-boot.sh 
